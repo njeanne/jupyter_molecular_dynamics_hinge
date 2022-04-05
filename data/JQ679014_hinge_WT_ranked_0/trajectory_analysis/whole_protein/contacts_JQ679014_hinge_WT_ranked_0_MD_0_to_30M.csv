@@ -1,4 +1,4 @@
-contact,mean distance 2nd half,median distance 2nd half,mean distance whole,median distance whole
+contact,mean_distance_2nd_half,median_distance_2nd_half,mean_distance_whole,median_distance_whole
 PRO1_O-GLU3_N-H,3.18,3.18,3.31,3.21
 PRO1_O-ALA4_N-H,2.34,2.29,3.06,2.41
 PRO2_O-ALA4_N-H,3.12,3.12,3.22,3.18
